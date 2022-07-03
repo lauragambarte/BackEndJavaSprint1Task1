@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2e562d6-cac6-4050-92b0-9de1c2310760" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sprint S1.01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel1/ejercicio1/Instrumento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel1/ejercicio1/InstrumentoCuerda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel1/ejercicio1/InstrumentoPercusion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel1/ejercicio1/InstrumentoViento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel1/ejercicio1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel1/ejercicio2/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel1/ejercicio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel2/Camara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel2/Reloj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel2/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nivel2/Telefono.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +40,7 @@
       <recent name="nivel1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nivel2.Main">
+  <component name="RunManager" selected="Application.nivel2.ejercicio1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nivel1.ejercicio1.Main" />
       <module name="Sprint S1.01" />
@@ -85,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nivel2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nivel2.Main" />
+    <configuration name="nivel2.ejercicio1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nivel2.ejercicio1.Main" />
       <module name="Sprint S1.01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nivel2.*" />
+          <option name="PATTERN" value="nivel2.ejercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.nivel2.Main" />
+        <item itemvalue="Application.nivel2.ejercicio1.Main" />
         <item itemvalue="Application.nivel1.ejercicio2.Main" />
         <item itemvalue="Application.Main" />
       </list>

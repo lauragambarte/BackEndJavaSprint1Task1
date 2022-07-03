@@ -1,4 +1,4 @@
-package nivel2;
+package nivel2.ejercicio1;
 
 public class Smartphone extends Telefono implements Camara, Reloj{
     public Smartphone(String marca, String modelo){
